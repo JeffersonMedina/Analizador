@@ -1,0 +1,7 @@
+E;error;error;error;error;TA;TA;TA;error;TA;TA;error
+A;+TA;-TA;error;error;error;error;error;vacio;error;error;vacio
+T;error;error;error;error;FB;FB;FB;error;FB;FB;error
+B;vacio;vacio;*FB;/FB;error;error;error;vacio;error;error;vacio
+F;error;error;error;error;id;num;(E);error;pot(num,num);mod(num,num);error
+P;error;error;error;error;error;error;error;error;pot(num,num);error;error
+M;error;error;error;error;error;error;error;error;error;mod(num,num);error
